@@ -26,6 +26,11 @@ div {
   padding: .5em;
 }
 
+svg {
+  height: 100%;
+  width: 100%;
+}
+
 .burping-guy {
   float: left;
 }
