@@ -17,3 +17,19 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 2em;
+}
+
+div {
+  padding: .5em;
+}
+
+.burping-guy {
+  float: left;
+}
+
+.calories, .did-you-know, .moderation {
+  float: right;
+}
