@@ -19,10 +19,11 @@ html {
 }
 
 body {
-  margin: 2em;
+  margin: 0;
 }
 
 div {
+  margin: 0;
   padding: .5em;
 }
 
@@ -31,10 +32,12 @@ svg {
   width: 100%;
 }
 
-.burping-guy {
-  float: left;
+.title {
+  height: 100%;
+  width: 100%;
+  padding: 0;
 }
 
-.calories, .did-you-know, .moderation {
+.calories, .did-you-know, .moderation, {
   float: right;
-}
+  }
