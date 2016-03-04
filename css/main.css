@@ -39,7 +39,8 @@ svg {
 }
 
 .burping-guy {
-  float: left;
+  /*float: left;*/
+  display: inline-block;
 }
 
 .svg-2 {
